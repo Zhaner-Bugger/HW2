@@ -26,6 +26,6 @@ Added code to all 5 Classes and DatabaseHelper
 ```
 When running the code, configure run to have HW2Imp as main.
 
-[Screencast]()
+[Screencast](https://youtu.be/H0wQ8huwtF8)
 
 
