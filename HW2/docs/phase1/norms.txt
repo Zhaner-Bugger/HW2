@@ -1,0 +1,8 @@
+Team Norms:
+Actionable outcomes: Conclude each meeting with a summary of decisions made and a list of clear action items with assigned owners.
+
+Code standards: Define and enforce a shared coding style, including formatting, naming conventions, and commenting. This ensures the codebase remains readable and consistent for everyone. Tools like linters and formatters can help automate this process.
+
+Taking ownership: Team members are responsible for their assigned tasks from start to finish. If a commitment cannot be met, the team must be notified as soon as possible.
+
+Attendance: All team members must attend the twice a week stand up meetings
